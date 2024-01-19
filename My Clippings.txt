@@ -1990,3 +1990,408 @@ Bíblia Sagrada com Concordância Bíblica (Sociedade Bíblica do Brasil)
 
 Em verdade, em verdade vos digo que o servo b não é maior do que seu senhor, nem o enviado, maior do que aquele que o enviou. b Mt 10.24; Lc 6.40; Jo 15.20 17 Ora, se sabeis estas coisas, bem-aventurados sois se as praticardes.
 ==========
+Accelerate (Forsgren PhD)
+- Seu destaque ou posição 466-468 | Adicionado: terça-feira, 16 de janeiro de 2024 20:50:07
+
+in the 47 context of product development, where we aim to satisfy multiple customers in ways they may not anticipate, there are two parts to lead time: the time it takes to design and validate a product or feature, and the time to deliver the feature to customers.
+==========
+Accelerate (Forsgren PhD)
+- Sua nota ou posição 468 | Adicionado: terça-feira, 16 de janeiro de 2024 20:50:38
+
+Interessante ter essas duas partes de lead time
+==========
+Accelerate (Forsgren PhD)
+- Seu destaque ou posição 481-482 | Adicionado: terça-feira, 16 de janeiro de 2024 21:20:20
+
+Shorter product delivery lead times are better since they enable faster feedback
+==========
+Accelerate (Forsgren PhD)
+- Seu destaque ou posição 482-483 | Adicionado: terça-feira, 16 de janeiro de 2024 21:22:45
+
+Short lead times are also important when there is a defect or outage and we need to deliver a fix 48 rapidly and with high confidence.
+==========
+Accelerate (Forsgren PhD)
+- Sua nota ou posição 487 | Adicionado: terça-feira, 16 de janeiro de 2024 21:24:04
+
+Q isso??
+==========
+Accelerate (Forsgren PhD)
+- Seu destaque ou posição 487-487 | Adicionado: terça-feira, 16 de janeiro de 2024 21:24:04
+
+batch size.
+==========
+Accelerate (Forsgren PhD)
+- Sua nota ou posição 499 | Adicionado: terça-feira, 16 de janeiro de 2024 21:27:44
+
+Nao entendi oq e esss tempo
+==========
+Accelerate (Forsgren PhD)
+- Seu destaque ou posição 499-500 | Adicionado: terça-feira, 16 de janeiro de 2024 21:27:44
+
+software delivery performance tempo.
+==========
+Accelerate (Forsgren PhD)
+- Seu destaque ou posição 512-514 | Adicionado: terça-feira, 16 de janeiro de 2024 21:38:31
+
+Cluster analysis is a foundational technique in statistical data analysis that attempts to group responses so that responses in the same group are more similar to each other than to responses in other groups.
+==========
+Accelerate (Forsgren PhD)
+- Seu destaque ou posição 547-551 | Adicionado: terça-feira, 16 de janeiro de 2024 21:51:55
+
+Astonishingly, these results demonstrate that there is no tradeoff between improving performance and achieving higher levels of stability and quality. Rather, high performers do better at all of these measures. This is precisely what the Agile and Lean movements predict, but much dogma in our industry still rests on the false assumption that moving faster means trading off against other performance goals, rather than enabling and reinforcing them.4
+==========
+Accelerate (Forsgren PhD)
+- Sua nota ou posição 551 | Adicionado: terça-feira, 16 de janeiro de 2024 21:52:44
+
+Naobsei se estou tso convencido. Talvez tenha q entender melhor sobre essa  nalise em cluster
+==========
+Accelerate (Forsgren PhD)
+- Sua nota ou posição 499 | Adicionado: terça-feira, 16 de janeiro de 2024 21:56:34
+
+Tempo  = deployment frequency e change failure rate
+==========
+Accelerate (Forsgren PhD)
+- Sua nota ou posição 499 | Adicionado: terça-feira, 16 de janeiro de 2024 21:59:59
+
+Tempo  = deployment frequency e change lead time.
+
+o que e chsnge lead time?
+==========
+Accelerate (Forsgren PhD)
+- Seu destaque ou posição 616-618 | Adicionado: terça-feira, 16 de janeiro de 2024 22:33:22
+
+“Do change management boards actually improve delivery performance? ” (Spoiler alert: they do not; they are negatively correlated with tempo and stability.)
+==========
+Accelerate (Forsgren PhD)
+- Sua nota ou posição 618 | Adicionado: terça-feira, 16 de janeiro de 2024 22:33:31
+
+Linear?
+==========
+Accelerate (Forsgren PhD)
+- Seu destaque ou posição 640-641 | Adicionado: quarta-feira, 17 de janeiro de 2024 21:14:51
+
+we also discovered that it is possible to influence and improve culture by implementing DevOps practices.
+==========
+Accelerate (Forsgren PhD)
+- Seu destaque ou posição 667-669 | Adicionado: quarta-feira, 17 de janeiro de 2024 21:29:25
+
+Westrum provides three characteristics of good information: 1. It provides answers to the questions that the receiver needs answered. 2. It is timely. 3. It is presented in such a way that it can be effectively used by the receiver.
+==========
+Accelerate (Forsgren PhD)
+- Sua nota ou posição 680 | Adicionado: quarta-feira, 17 de janeiro de 2024 21:34:47
+
+Qul o sentido disso?
+==========
+Accelerate (Forsgren PhD)
+- Seu destaque ou posição 680-680 | Adicionado: quarta-feira, 17 de janeiro de 2024 21:34:47
+
+Bridging
+==========
+Bíblia Sagrada com Concordância Bíblica (Sociedade Bíblica do Brasil)
+- Seu destaque na página 2854 | posição 55950-55953 | Adicionado: quarta-feira, 17 de janeiro de 2024 22:38:22
+
+25 Isto vos tenho dito, estando ainda convosco; 26 mas o Consolador, o Espírito Santo, a quem o Pai enviará em meu nome, esse vos ensinará todas as coisas e vos fará lembrar de tudo o que vos tenho dito.
+==========
+Bíblia Sagrada com Concordância Bíblica (Sociedade Bíblica do Brasil)
+- Seu destaque na página 2854 | posição 55958-55958 | Adicionado: quarta-feira, 17 de janeiro de 2024 22:40:20
+
+porque aí vem o príncipe do mundo;
+==========
+Bíblia Sagrada com Concordância Bíblica (Sociedade Bíblica do Brasil)
+- Sua nota na página 2854 | posição 55958 | Adicionado: quarta-feira, 17 de janeiro de 2024 22:40:32
+
+Quem e essse?
+==========
+Accelerate (Forsgren PhD)
+- Seu destaque ou posição 716-716 | Adicionado: quinta-feira, 18 de janeiro de 2024 08:07:20
+
+in organizations with a generative culture, people collaborate more effectively and there is a higher level of trust
+==========
+Accelerate (Forsgren PhD)
+- Seu destaque ou posição 717-719 | Adicionado: quinta-feira, 18 de janeiro de 2024 08:07:59
+
+“generative culture emphasizes the mission, an emphasis that allows people involved to put aside their personal issues and also the departmental issues that are so evident in bureaucratic organizations. The mission is primary. And third, generativity encourages a ‘level playing field,’ in which hierarchy plays less of a role”
+==========
+Accelerate (Forsgren PhD)
+- Seu destaque ou posição 727-728 | Adicionado: quinta-feira, 18 de janeiro de 2024 08:10:12
+
+as well as startups that are clearly pathological.
+==========
+Accelerate (Forsgren PhD)
+- Sua nota ou posição 728 | Adicionado: quinta-feira, 18 de janeiro de 2024 08:10:34
+
+Eu achava q seriam generatives
+==========
+Accelerate (Forsgren PhD)
+- Sua nota ou posição 736 | Adicionado: quinta-feira, 18 de janeiro de 2024 08:13:05
+
+A cultura organizacional impacta a performance de entrega de software
+==========
+Accelerate (Forsgren PhD)
+- Seu destaque ou posição 736 | Adicionado: quinta-feira, 18 de janeiro de 2024 08:13:05
+
+
+==========
+Accelerate (Forsgren PhD)
+- Sua nota ou posição 736 | Adicionado: quinta-feira, 18 de janeiro de 2024 08:13:34
+
+A cultura organizacional impacta a performance de entrega de software e a performance da organizacao em si
+==========
+Accelerate (Forsgren PhD)
+- Seu destaque ou posição 752-753 | Adicionado: quinta-feira, 18 de janeiro de 2024 08:20:12
+
+Analysis showed that only lead time, release frequency, and time to restore together form a valid and reliable construct. Thus, in the rest of book, when we talk about software delivery performance it is defined using only the combination of those three metrics.
+==========
+Accelerate (Forsgren PhD)
+- Sua nota ou posição 753 | Adicionado: quinta-feira, 18 de janeiro de 2024 08:20:57
+
+Pq change fail rate nao passou ?
+==========
+Accelerate (Forsgren PhD)
+- Sua nota ou posição 753 | Adicionado: quinta-feira, 18 de janeiro de 2024 08:22:43
+
+Pq change fail rate nao passou ?
+
+construct:
+     validity : discriminant and 
+     reliability
+==========
+Accelerate (Forsgren PhD)
+- Sua nota ou posição 753 | Adicionado: quinta-feira, 18 de janeiro de 2024 08:23:22
+
+Pq change fail rate nao passou ?
+
+construct:
+     validity : discriminant and Convergent
+     reliability
+==========
+Accelerate (Forsgren PhD)
+- Seu destaque ou posição 762-762 | Adicionado: quinta-feira, 18 de janeiro de 2024 08:25:31
+
+it all comes down to team dynamics.
+==========
+Accelerate (Forsgren PhD)
+- Sua nota ou posição 762 | Adicionado: quinta-feira, 18 de janeiro de 2024 08:26:09
+
+A dinamica do time dita sua performance mais do que quem esta no time
+==========
+Accelerate (Forsgren PhD)
+- Seu destaque ou posição 769-769 | Adicionado: quinta-feira, 18 de janeiro de 2024 08:27:32
+
+Human error should, instead, be the start of the investigation.
+==========
+Accelerate (Forsgren PhD)
+- Seu destaque ou posição 775-776 | Adicionado: quinta-feira, 18 de janeiro de 2024 08:28:59
+
+the way to change culture is not to first change how people think, but instead to start by changing how people behave—what they do”
+==========
+Accelerate (Forsgren PhD)
+- Seu destaque ou posição 798-800 | Adicionado: quinta-feira, 18 de janeiro de 2024 08:33:48
+
+Continuous delivery is a set of capabilities that enable us to get changes of all kinds—features, configuration changes, bug fixes, experiments—into production or into the hands of users safely, quickly, and sustainably.
+==========
+Accelerate (Forsgren PhD)
+- Seu destaque ou posição 802-804 | Adicionado: quinta-feira, 18 de janeiro de 2024 08:34:43
+
+In continuous delivery, we invest in building a culture supported by tools and people where we can detect any issues quickly, so that they can be fixed straight away when they are cheap to detect and resolve.
+==========
+Accelerate (Forsgren PhD)
+- Seu destaque ou posição 806-808 | Adicionado: quinta-feira, 18 de janeiro de 2024 08:38:12
+
+By splitting work up into much smaller chunks that deliver measurable business outcomes quickly for a small part of our target market, we get essential feedback on the work we are doing so that we can course correct.
+==========
+Accelerate (Forsgren PhD)
+- Seu destaque ou posição 812-814 | Adicionado: quinta-feira, 18 de janeiro de 2024 08:40:16
+
+to take repetitive work that takes a long time, such as regression testing and software deployments, and invest in simplifying and automating this work.
+==========
+Accelerate (Forsgren PhD)
+- Seu destaque ou posição 817-817 | Adicionado: quinta-feira, 18 de janeiro de 2024 08:41:18
+
+always strive to get better.
+==========
+Accelerate (Forsgren PhD)
+- Sua nota ou posição 817 | Adicionado: quinta-feira, 18 de janeiro de 2024 08:41:43
+
+Agregaçao de valor marginal
+==========
+Accelerate (Forsgren PhD)
+- Sua nota ou posição 817 | Adicionado: quinta-feira, 18 de janeiro de 2024 08:42:17
+
+Agregaçao de ganhos marginais
+==========
+Accelerate (Forsgren PhD)
+- Seu destaque ou posição 823-825 | Adicionado: quinta-feira, 18 de janeiro de 2024 08:44:42
+
+A key objective for management is making the state of these system-level outcomes transparent, working with the rest of the organization to set measurable, achievable, time-bound goals for these outcomes, and then helping their teams work toward them.
+==========
+Accelerate (Forsgren PhD)
+- Sua nota ou posição 799 | Adicionado: quinta-feira, 18 de janeiro de 2024 08:47:10
+
+1- work in small batches
+2 - computer does the repetitive work human solve problems
+3 - relentlessly pursue improvement
+4 - 
+==========
+Accelerate (Forsgren PhD)
+- Sua nota ou posição 799 | Adicionado: quinta-feira, 18 de janeiro de 2024 08:47:28
+
+1- work in small batches
+2 - computer does the repetitive work human solve problems
+3 - relentlessly pursue improvement
+4 - Build quality in
+==========
+Accelerate (Forsgren PhD)
+- Sua nota ou posição 799 | Adicionado: quinta-feira, 18 de janeiro de 2024 08:48:10
+
+1- work in small batches
+2 - computer does the repetitive work human solve problems
+3 - relentlessly pursue improvement
+4 - Build quality in
+5 - everyone is responsable
+==========
+Accelerate (Forsgren PhD)
+- Sua nota ou posição 804 | Adicionado: quinta-feira, 18 de janeiro de 2024 10:00:26
+
+Adicionaria que para Built in quality entraria a tomada de decisao de priorizacao. Entregar muito mas entregar capenga nao significa que estamos bem. Exemplo do auth nascee no GAE. 
+==========
+Accelerate (Forsgren PhD)
+- Seu destaque ou posição 835-836 | Adicionado: quinta-feira, 18 de janeiro de 2024 21:25:37
+
+high- performing teams keep branches short- lived (less than one day’s work) and integrate them into trunk/master frequently.
+==========
+Accelerate (Forsgren PhD)
+- Seu destaque ou posição 844-845 | Adicionado: quinta-feira, 18 de janeiro de 2024 21:32:13
+
+Implementing continuous delivery means creating multiple feedback loops to ensure that high-quality software gets delivered to users more frequently and more reliably.
+==========
+Accelerate (Forsgren PhD)
+- Sua nota ou posição 855 | Adicionado: quinta-feira, 18 de janeiro de 2024 21:35:45
+
+Oq seria essa gestao eficaz?
+==========
+Accelerate (Forsgren PhD)
+- Seu destaque ou posição 854-855 | Adicionado: quinta-feira, 18 de janeiro de 2024 21:35:45
+
+Effective test data management
+==========
+Accelerate (Forsgren PhD)
+- Sua nota ou posição 856 | Adicionado: quinta-feira, 18 de janeiro de 2024 21:37:43
+
+Faz sentio aplicarmos essas perguntas pra emtender melhor como estamos?
+==========
+Accelerate (Forsgren PhD)
+- Seu destaque ou posição 856-856 | Adicionado: quinta-feira, 18 de janeiro de 2024 21:37:43
+
+Likert scale,
+==========
+Accelerate (Forsgren PhD)
+- Seu destaque ou posição 870-872 | Adicionado: quinta-feira, 18 de janeiro de 2024 21:40:07
+
+By giving developers the tools to detect problems when they occur, the time and resources to invest in their development, and the authority to fix problems straight away, we create an environment where developers accept responsibility for global outcomes such as quality and stability.
+==========
+Accelerate (Forsgren PhD)
+- Sua nota ou posição 878 | Adicionado: quinta-feira, 18 de janeiro de 2024 21:42:12
+
+Notes
+==========
+Accelerate (Forsgren PhD)
+- Seu destaque ou posição 878 | Adicionado: quinta-feira, 18 de janeiro de 2024 21:42:12
+
+
+==========
+Accelerate (Forsgren PhD)
+- Seu destaque ou posição 899-900 | Adicionado: quinta-feira, 18 de janeiro de 2024 21:47:09
+
+Continuous Delivery Makes Work More Sustainable
+==========
+Accelerate (Forsgren PhD)
+- Seu destaque ou posição 903-903 | Adicionado: quinta-feira, 18 de janeiro de 2024 21:47:46
+
+Jerry Weinberg says, “Quality is value to some person”
+==========
+Accelerate (Forsgren PhD)
+- Sua nota ou posição 903 | Adicionado: quinta-feira, 18 de janeiro de 2024 21:48:41
+
+Pesquosar maos sobre seus materiais 
+==========
+Accelerate (Forsgren PhD)
+- Seu destaque ou posição 903-903 | Adicionado: quinta-feira, 18 de janeiro de 2024 21:48:41
+
+Jerry Weinberg
+==========
+Accelerate (Forsgren PhD)
+- Seu destaque ou posição 903-903 | Adicionado: quinta-feira, 18 de janeiro de 2024 21:49:03
+
+“Quality is value to some person”
+==========
+Accelerate (Forsgren PhD)
+- Seu destaque ou posição 905-907 | Adicionado: quinta-feira, 18 de janeiro de 2024 21:50:01
+
+proxy variables for quality: The quality and performance of applications, as perceived by those working on them The percentage of time spent on rework or unplanned work The percentage of time spent working on defects identified
+==========
+Accelerate (Forsgren PhD)
+- Seu destaque ou posição 905-907 | Adicionado: quinta-feira, 18 de janeiro de 2024 21:50:30
+
+proxy variables for quality: The quality and performance of applications, as perceived by those working on them The percentage of time spent on rework or unplanned work The percentage of time spent working on defects identified by end users
+==========
+Accelerate (Forsgren PhD)
+- Seu destaque ou posição 908-910 | Adicionado: quinta-feira, 18 de janeiro de 2024 21:51:48
+
+Our analysis found that all measures were correlated with software delivery performance. However, the strongest correlation was seen in the percentage of time spent on rework or unplanned work, including break/fix work, emergency software deployments and patches, responding to urgent audit documentation requests, and so forth.
+==========
+Accelerate (Forsgren PhD)
+- Seu destaque ou posição 910-911 | Adicionado: quinta-feira, 18 de janeiro de 2024 21:52:32
+
+Furthermore, continuous delivery predicts lower levels of unplanned work and rework in a statistically significant way.
+==========
+Accelerate (Forsgren PhD)
+- Sua nota ou posição 911 | Adicionado: quinta-feira, 18 de janeiro de 2024 21:53:33
+
+Nao vejo isso como vdd na CW. Como o cd enxerga mudancas de regras ds negocio, fluxosz q sempre surgem no meio do dev da feature?
+==========
+Accelerate (Forsgren PhD)
+- Sua nota ou posição 914 | Adicionado: quinta-feira, 18 de janeiro de 2024 21:54:53
+
+Daria pra tirar essas metricas se passarmos a usar o lniear bonitinho?
+==========
+Accelerate (Forsgren PhD)
+- Seu destaque ou posição 914 | Adicionado: quinta-feira, 18 de janeiro de 2024 21:54:53
+
+
+==========
+Accelerate (Forsgren PhD)
+- Seu destaque ou posição 922-924 | Adicionado: quinta-feira, 18 de janeiro de 2024 21:57:50
+
+failure demand— demand for work caused by the failure to do the right thing the first time by improving the quality of service we provide.
+==========
+Accelerate (Forsgren PhD)
+- Seu destaque ou posição 932-933 | Adicionado: quinta-feira, 18 de janeiro de 2024 22:02:02
+
+keeping system and application configuration in version control was more highly correlated with software delivery performance than keeping application code in version control.
+==========
+Accelerate (Forsgren PhD)
+- Sua nota ou posição 933 | Adicionado: quinta-feira, 18 de janeiro de 2024 22:02:13
+
+Tipo o magi?
+==========
+Accelerate (Forsgren PhD)
+- Seu destaque ou posição 937-938 | Adicionado: quinta-feira, 18 de janeiro de 2024 22:02:55
+
+tests that are reliable: when the automated tests pass, teams are confident that their software is releasable. Furthermore, they are confident that test failures indicate a real defect.
+==========
+Bíblia Sagrada com Concordância Bíblica (Sociedade Bíblica do Brasil)
+- Seu destaque na página 2855 | posição 55962-55964 | Adicionado: sexta-feira, 19 de janeiro de 2024 00:12:27
+
+Eu sou a videira verdadeira, e meu Pai é o agricultor. 2 Todo ramo que, estando em mim, não der fruto, ele o corta; e todo o que dá fruto limpa, para que produza mais fruto
+==========
+Bíblia Sagrada com Concordância Bíblica (Sociedade Bíblica do Brasil)
+- Seu destaque na página 2855 | posição 55962-55964 | Adicionado: sexta-feira, 19 de janeiro de 2024 00:12:36
+
+Eu sou a videira verdadeira, e meu Pai é o agricultor. 2 Todo ramo que, estando em mim, não der fruto, ele o corta; e todo o que dá fruto limpa, para que produza mais fruto ainda.
+==========
+Bíblia Sagrada com Concordância Bíblica (Sociedade Bíblica do Brasil)
+- Sua nota na página 2855 | posição 55964 | Adicionado: sexta-feira, 19 de janeiro de 2024 00:13:05
+
+Como saber se estou sendo cortado ou sendo limpo?
+==========
